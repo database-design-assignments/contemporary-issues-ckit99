@@ -2,7 +2,7 @@
 
 Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
 
-#Academia and Industry Meet to reimagine the AI Graduate 
+## Academia and Industry Meet to reimagine the AI Graduate 
 
 This article, written by Daniel Gutierezz and published on insideBigData, outlines the talent gap for graduates well versed in AI in a market where demand for AI jobs will skyrocket in the coming years. I Gutierezz first outlined how most education systems around the world have failed to teach students the necessary skills to work in fields like AI, leaving individuals who want to pursue a career in AI to acquire the skills themselves. This has consequently led to a deficit of AI ready talent, whose demand will continue to skAcademia and Industry Meet to reimagine the AI Graduate 
 
